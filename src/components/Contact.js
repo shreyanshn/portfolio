@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-export default class Home extends Component {
+export default class Contact extends Component {
   render() {
     return (
         <section className="ftco-section contact-section ftco-no-pb" id="contact-section">

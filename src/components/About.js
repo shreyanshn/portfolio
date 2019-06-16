@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-export default class Home extends Component {
+export default class About extends Component {
   render() {
     return (
         <section className="ftco-about ftco-counter img ftco-section" id="about-section">
